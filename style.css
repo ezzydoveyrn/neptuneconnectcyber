@@ -16,6 +16,7 @@ body{
       background-size: cover;
       border-bottom: 4px solid salmon;
       display: flex;
+      padding-top: 20px;
 
       #logoSection{
         width: 200px;
