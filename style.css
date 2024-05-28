@@ -422,7 +422,7 @@ body{
       position: fixed;
       height: 100%;
       width: 100%;
-      display: none;
+      display: block;
       .title{
         color: aliceblue;
         padding: 10px;
